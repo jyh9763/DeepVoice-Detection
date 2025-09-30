@@ -1,0 +1,12 @@
+numpy===2.1.2
+pillow===11.0.0
+torch===2.8.0+cu126
+torchvision===0.23.0+cu126
+librosa===0.11.0
+scikit-learn===1.7.2
+scipy===1.16.2
+transformers===4.56.2
+matplotlib===3.10.6
+
+// pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+// CUDA 12.6
